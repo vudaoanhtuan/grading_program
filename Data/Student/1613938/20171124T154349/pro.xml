@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<project>
+	<header>
+		<file>add.h</file>
+	</header>
+	<source>
+		<file>add.cpp</file>
+		<file>main.cpp</file>
+	</source>
+</project>

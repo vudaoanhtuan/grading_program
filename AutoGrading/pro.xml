@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<project>
+	<header>
+		<file>Code\VSC++\AutoGrading\AutoGrading\compile.h<file>
+		<file>Code\VSC++\AutoGrading\AutoGrading\grade.h<file>
+		<file>Code\VSC++\AutoGrading\AutoGrading\Header.h<file>
+		<file>Code\VSC++\AutoGrading\AutoGrading\parser.h<file>
+		<file>Code\VSC++\AutoGrading\AutoGrading\prepare.h<file>
+		<file>Code\VSC++\AutoGrading\AutoGrading\run.h<file>
+		<file>Code\VSC++\AutoGrading\AutoGrading\scan.h<file>
+	<header>
+	<source>
+		<file>D:/Code/VSC++/AutoGrading/AutoGrading/Debug/AutoGrading.tlog/CL.command.1.tlog<file>
+		<file>D:/Code/VSC++/AutoGrading/AutoGrading/Debug/AutoGrading.tlog/link.command.1.tlog<file>
+		<file>D:/Code/VSC++/AutoGrading/AutoGrading/main.cpp<file>
+		<file>D:/Code/VSC++/AutoGrading/AutoGrading/old/main.cpp<file>
+	<source>
+<project>
